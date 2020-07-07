@@ -54,6 +54,10 @@ else
   end 
 end 
 
+def winner(board)
+if won?   
+end 
+
 
 
 
