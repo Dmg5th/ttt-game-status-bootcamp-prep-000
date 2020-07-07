@@ -16,7 +16,6 @@ WIN_COMBINATIONS = [
  ]
  
  def won?(board)
-   WIN_COMBINATIONS.each do |i|
-     if i == board 
-       return i 
+   WIN_COMBINATIONS.each do |array|
+     
  end
